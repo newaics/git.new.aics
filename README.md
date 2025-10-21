@@ -1,5 +1,5 @@
 # [git.new/aics](https://git.new/aics)
 ## git.new/aics | AICS | Artificial & Intelligence Computer Science
-**Research**
-## Contact
+**Research Group**
+## Contact: Jan Klein
 # [dev.ucoz.org](https://dev.ucoz.org)
