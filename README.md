@@ -2,5 +2,5 @@
 ## git.new/aics | AICS | Artificial & Intelligence Computer Science
 ## Research Group
 ## Contact
-# Jan Klein
+# Research director Jan Klein
 # [dev.ucoz.org](https://dev.ucoz.org)
